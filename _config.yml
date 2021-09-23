@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Arnold Kazadi Nyamabo / Site Title"
+title                    : "Arnold K. Nyamabo's Homepage"
 title_separator          : "-"
 name                     : &name "Arnold Kazadi Nyamabo"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Arnold K. Nyamabo"
+  name             : "Arnold Kazadi Nyamabo"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
