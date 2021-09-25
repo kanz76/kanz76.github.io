@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year M.Sc. student in Computer Science at [Northwestern Polytechnical University (西北工业大学)](http://en.nwpu.edu.cn/), Xi'an, China. I have a Bachelor's degree in Software engineering from [Zhejiang Normal University (浙江师范大学)](http://zjnu.edu.cn/). 
+I am a final year M.Sc. student in Computer Science at [Northwestern Polytechnical University (西北工业大学)](http://en.nwpu.edu.cn/), Xi'an, China, advised by [Dr. Hui Yu](https://teacher.nwpu.edu.cn/yuhui.html). I have a Bachelor's degree in Software engineering from [Zhejiang Normal University (浙江师范大学)](http://zjnu.edu.cn/). 
 My given Chinese name is 金小超 (Jīn Xiǎo Chāo). 
 
 A data-driven personal website
@@ -26,9 +26,9 @@ Getting started
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
+Research Interests
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+I am broadly interested in deep learning with special focus on graph neural networks (GNNs) and their applications in various domains. I am currently working on applications of GNNs for the prediction of drug-drug interactions. 
 
 Create content & metadata
 ------
