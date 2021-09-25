@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Arnold K. Nyamabo"
+# title: "Arnold K. Nyamabo"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
