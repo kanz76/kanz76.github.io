@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.Sc. in Computer Science, Northwestern Polytechnical University (西北工业大学) 2022(expected)
-* B.Sc. in Software Engineering, Zhejiang Normal University (浙江师范大学), 2019
+* **M.Sc. in Computer Science**, Northwestern Polytechnical University (西北工业大学) 2022(expected)
+* **B.Sc. in Software Engineering**, Zhejiang Normal University (浙江师范大学), 2019
 
 <!-- Work experience
 ======
