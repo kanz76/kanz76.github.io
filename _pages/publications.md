@@ -15,4 +15,4 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<p> Can this be seen {% author.googlescholar %}</p>
+<p> Can this be seen {% author.googlescholar %} yes or no</p>
