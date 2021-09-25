@@ -10,7 +10,7 @@ venue: 'Briefings in Bioinformatics'
 ---
 This paper is about the number 2. The number 3 is left for future work nothing is changing here.
 
-<!-- [Download paper here](http://academicpages.github.io/files/paper2.pdf) -->
+[Download paper here](https://doi.org/10.1093/bib/bbab133)
 
 <!-- Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2). -->
-Recommended citation: Arnold K Nyamabo, Hui Yu, Jian-Yu Shi, SSI–DDI: substructure–substructure interactions for drug–drug interaction prediction, <i>Briefings in Bioinformatics</i>, 2021;, bbab133, https://doi.org/10.1093/bib/bbab133.
+<!-- Recommended citation: Arnold K Nyamabo, Hui Yu, Jian-Yu Shi, SSI–DDI: substructure–substructure interactions for drug–drug interaction prediction, <i>Briefings in Bioinformatics</i>, 2021;, bbab133, https://doi.org/10.1093/bib/bbab133. -->
