@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Arnold Kazadi Nyamabo"
+  name             : "Arnold Kazadi Nyamabo (金小超)"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "MSc student in Computer Science at Northwestern Polytechnical University"
   location         : "Xi'an, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
