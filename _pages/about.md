@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year M.Sc. student in Computer Science at [Northwestern Polytechnical University(西北工业大学)](http://en.nwpu.edu.cn/)
+I am a final year M.Sc. student in Computer Science at [Northwestern Polytechnical University (西北工业大学)](http://en.nwpu.edu.cn/), Xi'an, China. I have a Bachelor's degree in Software engineering from [Zhejiang Normal University (浙江师范大学)](http://zjnu.edu.cn/). 
+My given Chinese name is 金小超 (Jīn Xiǎo Chāo). 
 
 A data-driven personal website
 ======
