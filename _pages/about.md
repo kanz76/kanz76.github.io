@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year M.Sc. student in Computer Science at (Northwestern Polytechnical University(西北工业大学))[http://en.nwpu.edu.cn/]
+I am a final year M.Sc. student in Computer Science at [Northwestern Polytechnical University(西北工业大学)](http://en.nwpu.edu.cn/)
 
 A data-driven personal website
 ======
