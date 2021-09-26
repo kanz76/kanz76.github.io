@@ -15,8 +15,10 @@
   }
 
   a {
-    // text-decoration: underline;
-    text-decoration: none;
+    text-decoration: underline;
+    &:link{
+      text-decoration: none;
+    }
 
     &:hover {
       text-decoration: underline;
