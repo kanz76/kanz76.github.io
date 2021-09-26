@@ -38,12 +38,12 @@ Skills
   * Deep Learning: Pytorch, Pytorch Geometric, Tensorflow (working knowledge), Keras (working knowledge)
 
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+   -->
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
