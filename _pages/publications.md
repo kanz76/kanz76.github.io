@@ -1,5 +1,5 @@
 ---
-layout: archive
+# layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
@@ -11,7 +11,7 @@ author_profile: true
 [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=8K_HYF8AAAAJ)
 
 {% include base_path %}
-
+<!-- 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
