@@ -14,8 +14,5 @@ author_profile: true
 
 2021
 ===
-* **Arnold K Nyamabo**, Hui Yu, Jian-Yu Shi, [SSI–DDI: substructure–substructure interactions for drug–drug interaction prediction](https://doi.org/10.1093/bib/bbab133), <i>Briefings in Bioinformatics</i>, 2021
-<!-- 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
+* **Arnold K Nyamabo**, Hui Yu, Jian-Yu Shi, [SSI–DDI: substructure–substructure interactions for drug–drug interaction prediction](https://doi.org/10.1093/bib/bbab133), <i>Briefings in Bioinformatics</i>, 2021  
+[Code](https://github.com/kanz76/SSI-DDI){: .btn }
