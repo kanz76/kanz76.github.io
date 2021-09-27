@@ -18,7 +18,10 @@ I am broadly interested in deep learning, but with special focus on **Graph Neur
 
 Updates
 ------
-- **03/2021**: ["SSI–DDI: substructure–substructure interactions for drug–drug interaction prediction"]( https://doi.org/10.1093/bib/bbab133) is accepted for publication at *Briefings in Bioinformatics*.
+- **Sep 27, 2021**: ["Drug-drug Interaction Prediction with Learnable Size-Adaptive Molecular Substructures"]() is accepted for publication at *Briefings in Bioinformatics*.
+
+- **March 19, 2021**: ["SSI–DDI: substructure–substructure interactions for drug–drug interaction prediction"]( https://doi.org/10.1093/bib/bbab133) is accepted for publication at *Briefings in Bioinformatics*.
+
 
 Contact info
 ===
