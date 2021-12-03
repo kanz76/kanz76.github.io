@@ -18,7 +18,7 @@ Research experience
 ======
 * Dec 2021 - Present: Research Internship
   * Business Intelligence Lab, Baidu Research
-  * Supervisor: [Dr. Jingbo ZHOU](http://zhoujingbo.github.io/) 
+  <!-- * Supervisor: [Dr. Jingbo ZHOU](http://zhoujingbo.github.io/)  -->
 
 <!-- * Fall 2015: Research Assistant
   * Github University
