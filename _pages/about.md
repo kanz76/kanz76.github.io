@@ -14,7 +14,7 @@ My given Chinese name is 金小超 (Jīn Xiǎo Chāo).
 
 Research Interests
 ------
-I am broadly interested in deep learning, but with special focus on **Graph Neural Networks (GNNs) and their applications** in various domains. I am currently working on applications of GNNs for the prediction of drug-drug interactions. 
+I am broadly interested in deep learning, but with special focus on **Graph Neural Networks (GNNs) and their applications** in various domains. 
 
 Updates
 ------
