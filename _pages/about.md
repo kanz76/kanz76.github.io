@@ -18,6 +18,8 @@ I am broadly interested in deep learning, but with special focus on **Graph Neur
 
 Updates
 ------
+- **2021-12**: Started a research internship at Baidu Research. 
+
 - **2021-09**: ["Drug-drug Interaction Prediction with Learnable Size-Adaptive Molecular Substructures"](https://doi.org/10.1093/bib/bbab441) is accepted for publication in *Briefings in Bioinformatics*.
 
 - **2021-03**: ["SSI–DDI: substructure–substructure interactions for drug–drug interaction prediction"]( https://doi.org/10.1093/bib/bbab133) is accepted for publication in *Briefings in Bioinformatics*.

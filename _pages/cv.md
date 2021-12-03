@@ -14,18 +14,17 @@ Education
 * **M.Sc. in Computer Science**, Northwestern Polytechnical University (西北工业大学) 2022(expected)
 * **B.Sc. in Software Engineering**, Zhejiang Normal University (浙江师范大学), 2019
 
-<!-- Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Dec 2021 - Present: Research Internship
+  * Business Intelligence Lab, Baidu Research
+  * Supervisor: [Dr. Jingbo ZHOU](http://zhoujingbo.github.io/) 
 
-* Fall 2015: Research Assistant
+<!-- * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-   -->
+  * Supervisor: Professor Hub -->
+  
 
 Skills
 ======
