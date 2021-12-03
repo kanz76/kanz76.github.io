@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a final year M.Sc. student in Computer Science at [Northwestern Polytechnical University (西北工业大学)](http://en.nwpu.edu.cn/), Xi'an, China, advised by [Dr. Hui Yu](https://teacher.nwpu.edu.cn/yuhui.html). I have a Bachelor's degree in Software engineering from [Zhejiang Normal University (浙江师范大学)](http://zjnu.edu.cn/). 
-My given Chinese name is 金小超 (Jīn Xiǎo Chāo). 
+My Chinese name is 金小超 (Jīn Xiǎo Chāo). 
 
 
 Research Interests
