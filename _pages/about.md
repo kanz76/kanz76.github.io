@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year M.Sc. student in Computer Science at [Northwestern Polytechnical University (西北工业大学)](http://en.nwpu.edu.cn/), Xi'an, China, advised by [Dr. Hui Yu](https://teacher.nwpu.edu.cn/yuhui.html). I have a Bachelor's degree in Software engineering from [Zhejiang Normal University (浙江师范大学)](http://zjnu.edu.cn/). 
+I am a Ph.D. student in [Computer Science](https://cs.rice.edu/) at [Rice University](https://www.rice.edu/), advised by [Dr. Arlei Silva](https://cs.rice.edu/~al110/teaching.html). I received a Master's degree in Computer Science at [Northwestern Polytechnical University (西北工业大学)](http://en.nwpu.edu.cn/), Xi'an, China, under the supervision of [Dr. Hui Yu](https://teacher.nwpu.edu.cn/yuhui.html). I have a Bachelor's degree in Software engineering from [Zhejiang Normal University (浙江师范大学)](http://zjnu.edu.cn/). 
 My Chinese name is 金小超 (Jīn Xiǎo Chāo). 
 
 

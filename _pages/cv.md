@@ -11,14 +11,15 @@ redirect_from:
 
 Education
 ======
-* **M.Sc. in Computer Science**, Northwestern Polytechnical University (西北工业大学) 2022(expected)
+* **Ph.D. in Computer Science**, Rice University 
+* **M.Sc. in Computer Science**, Northwestern Polytechnical University (西北工业大学) 2022
 * **B.Sc. in Software Engineering**, Zhejiang Normal University (浙江师范大学), 2019
 
 Research experience
 ======
 * Dec 2021 - Present: Research Internship
   * Business Intelligence Lab, Baidu Research
-  <!-- * Supervisor: [Dr. Jingbo ZHOU](http://zhoujingbo.github.io/)  -->
+  * Supervisor: [Dr. Jingbo ZHOU](http://zhoujingbo.github.io/) 
 
 <!-- * Fall 2015: Research Assistant
   * Github University
@@ -34,7 +35,7 @@ Skills
   * Chinese (written & spoken at intermediate level)
 * Programming
   * Languages: Python, C (average), Java (average)
-  * Deep Learning: Pytorch, Pytorch Geometric, Tensorflow (working knowledge), Keras (working knowledge)
+  * Deep Learning: Pytorch, Pytorch Geometric, Tensorflow (working knowledge), Keras (working knowledge), PaddlePaddle
 
 
 <!-- Publications
