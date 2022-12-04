@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **Ph.D. in Computer Science**, Rice University [In progress]
+* **Ph.D. in Computer Science**, Rice University (*In progress ...*)
 * **M.Sc. in Computer Science**, Northwestern Polytechnical University (西北工业大学), 2022
 * **B.Sc. in Software Engineering**, Zhejiang Normal University (浙江师范大学), 2019
 
