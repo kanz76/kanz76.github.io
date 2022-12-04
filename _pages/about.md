@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in [Computer Science](https://cs.rice.edu/) at [Rice University](https://www.rice.edu/), advised by [Dr. Arlei Silva](https://cs.rice.edu/~al110/teaching.html). I received a Master's degree in Computer Science at [Northwestern Polytechnical University (西北工业大学)](http://en.nwpu.edu.cn/), Xi'an, China, under the supervision of [Dr. Hui Yu](https://teacher.nwpu.edu.cn/yuhui.html). I have a Bachelor's degree in Software engineering from [Zhejiang Normal University (浙江师范大学)](http://zjnu.edu.cn/). 
+I am a Ph.D. student in [Computer Science](https://cs.rice.edu/) at [Rice University](https://www.rice.edu/), advised by [Dr. Arlei Silva](https://cs.rice.edu/~al110/index.html). I received a Master's degree in Computer Science at [Northwestern Polytechnical University (西北工业大学)](http://en.nwpu.edu.cn/), Xi'an, China, under the supervision of [Dr. Hui Yu](https://teacher.nwpu.edu.cn/yuhui.html). I have a Bachelor's degree in Software engineering from [Zhejiang Normal University (浙江师范大学)](http://zjnu.edu.cn/). 
 My Chinese name is 金小超 (Jīn Xiǎo Chāo). 
 
 
@@ -18,6 +18,8 @@ I am broadly interested in deep learning, but with special focus on **Graph Neur
 
 Updates
 ------
+- **2022-11**: ["Flood Prediction with Graph Neural Networks"](https://doi.org/10.1093/bib/bbab441) is accepted for publication in *Tackling Climate Change with Machine Learning: workshop at NeurIPS 2022*.
+
 - **2022-07**: Started my Ph.D. in [Computer Science](https://cs.rice.edu/) at [Rice University](https://www.rice.edu/) 
 
 - **2021-12**: Started a research internship at Baidu Research. 
