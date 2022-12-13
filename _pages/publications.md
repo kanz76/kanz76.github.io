@@ -15,7 +15,7 @@ author_profile: true
 2022
 ===
 * **Arnold Kazadi**, James Doss-Gollin, Antonia Sebastian, Arlei Silva, ["Flood Prediction with Graph Neural Networks"](https://www.climatechange.ai/papers/neurips2022/75), <i>Tackling Climate Change with Machine Learning: workshop at NeurIPS</i>, 2022  
-[Paper](https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/neurips2022/75/paper.pdf){: .btn .btn-outline .mr-4}  
+[Paper](https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/neurips2022/75/paper.pdf){: .btn .btn-outline .mr-4}  [Code](https://github.com/kanz76/FloodGNN){: .btn .btn-outline}
 
 2021  
 ===
