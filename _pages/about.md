@@ -14,7 +14,7 @@ My Chinese name is 金小超 (Jīn Xiǎo Chāo).
 
 Research Interests
 ------
-I am broadly interested in deep learning, but with special focus on **Graph Neural Networks (GNNs) and their applications** in various domains. 
+I am broadly interested in deep learning, but with special focus on **Graph Neural Networks (GNNs) and their applications** in various domains.  Currently working on the application of GNNs to the prediction/emulation of extreme weather events such as flooding.
 
 Updates
 ------
