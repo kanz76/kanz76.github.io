@@ -18,6 +18,8 @@ I am broadly interested in deep learning, but with special focus on **Graph Neur
 
 Updates
 ------
+- **2024-05**: Started a research internship at ["NCAR"](https://ncar.ucar.edu/) with the ["MILES"](https://ncar.github.io/miles/) group.
+
 - **2022-11**: ["Flood Prediction with Graph Neural Networks"](https://www.climatechange.ai/papers/neurips2022/75) is accepted for publication in *Tackling Climate Change with Machine Learning: workshop at NeurIPS 2022*.
 
 - **2022-07**: Started my Ph.D. in [Computer Science](https://cs.rice.edu/) at [Rice University](https://www.rice.edu/) 

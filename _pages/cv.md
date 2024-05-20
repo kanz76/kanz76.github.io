@@ -17,6 +17,10 @@ Education
 
 Research experience
 ======
+* May 2024 - Present : Research Internship
+  * MILES, National Center Atmospheric Research 
+  * Supervisor: [David John Gagne](https://staff.ucar.edu/users/dgagne) 
+
 * Dec 2021 - Jul 2022: Research Internship
   * Business Intelligence Lab, Baidu Research
   * Supervisor: [Dr. Jingbo ZHOU](http://zhoujingbo.github.io/) 
