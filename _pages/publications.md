@@ -12,6 +12,11 @@ author_profile: true
 
 {% include base_path %}
 
+2024
+===
+* **Arnold Kazadi**, James Doss-Gollin, Arlei Silva, ["Pluvial Flood Emulation with Hydraulics-informed Message Passing"](files/_Camera_ready__ICML_24___Flood_Simulation.pdf), <i>Tackling Climate Change with Machine Learning: workshop at NeurIPS</i>, 2022  
+[Paper](files/_Camera_ready__ICML_24___Flood_Simulation.pdf){: .btn .btn-outline .mr-4}  [Code](https://github.com/kanz76/ComGNN){: .btn .btn-outline}
+
 2022
 ===
 * **Arnold Kazadi**, James Doss-Gollin, Antonia Sebastian, Arlei Silva, ["Flood Prediction with Graph Neural Networks"](https://www.climatechange.ai/papers/neurips2022/75), <i>Tackling Climate Change with Machine Learning: workshop at NeurIPS</i>, 2022  
