@@ -14,8 +14,13 @@ author_profile: true
 
 2024
 ===
-* **Arnold Kazadi**, James Doss-Gollin, Arlei Silva, ["Pluvial Flood Emulation with Hydraulics-informed Message Passing"](files/_Camera_ready__ICML_24___Flood_Simulation.pdf), <i>ICML</i>, 2024  
-[Paper](files/_Camera_ready__ICML_24___Flood_Simulation.pdf){: .btn .btn-outline .mr-4}  [Code](https://github.com/kanz76/ComGNN){: .btn .btn-outline}
+* **Arnold Kazadi**, James Doss-Gollin, Arlei Silva, ["Pluvial Flood Emulation with Hydraulics-informed Message Passing"](https://kanz76.github.io/files/ICML_24_Flood_Simulation.pdf), <i>ICML</i>, 2024  
+[Paper](https://kanz76.github.io/files/ICML_24_Flood_Simulation.pdf){: .btn .btn-outline .mr-4}  [Code](https://github.com/kanz76/ComGNN){: .btn .btn-outline}
+
+2024
+===
+* **Arnold Kazadi**, James Doss-Gollin, Antonia Sebastian, Arlei Silva ["FloodGNN-GRU: A Spatio-Temporal Graph Neural Network for Flood Prediction"](https://kanz76.github.io/files/EDS_FloodGNN_GRU__A_Spatio_Temporal_Graph_Neural_Network_for_Flood_Prediction.pdf), <i>Environmental Data Science</i>, 2024  
+[Paper](https://kanz76.github.io/files/EDS_FloodGNN_GRU__A_Spatio_Temporal_Graph_Neural_Network_for_Flood_Prediction.pdf){: .btn .btn-outline .mr-4}  [Code](https://github.com/kanz76/FloodGNN-GRU){: .btn .btn-outline}
 
 2022
 ===
