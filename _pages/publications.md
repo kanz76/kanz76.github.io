@@ -15,7 +15,7 @@ author_profile: true
 2024
 ===
 * **Arnold Kazadi**, James Doss-Gollin, Arlei Silva, ["Pluvial Flood Emulation with Hydraulics-informed Message Passing"](https://kanz76.github.io/files/ICML_24_Flood_Simulation.pdf), <i>ICML</i>, 2024  
-[Paper](https://kanz76.github.io/files/ICML_24_Flood_Simulation.pdf){: .btn .btn-outline .mr-4}  [Code](https://github.com/kanz76/ComGNN){: .btn .btn-outline}
+[Paper](https://openreview.net/forum?id=kIHIA6Lr0B&noteId=kIHIA6Lr0B){: .btn .btn-outline .mr-4}  [Code](https://github.com/kanz76/ComGNN){: .btn .btn-outline}
 
 2024
 ===

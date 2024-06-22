@@ -20,7 +20,7 @@ Updates
 ------
 - **2024-05**: Started a research internship at ["NCAR"](https://ncar.ucar.edu/) with the ["MILES"](https://ncar.github.io/miles/) group.
 
-- **2024-05**: ["Pluvial Flood Emulation with Hydraulics-informed Message Passing"](https://kanz76.github.io/files/ICML_24_Flood_Simulation.pdf) is accepted for publication at <i>ICML</i>, 2024
+- **2024-05**: ["Pluvial Flood Emulation with Hydraulics-informed Message Passing"](https://openreview.net/forum?id=kIHIA6Lr0B&noteId=kIHIA6Lr0B) is accepted for publication at <i>ICML</i>, 2024
 
 - **2024-03**: ["FloodGNN-GRU: A Spatio-Temporal Graph Neural Network for Flood Prediction"](https://kanz76.github.io/files/EDS_FloodGNN_GRU__A_Spatio_Temporal_Graph_Neural_Network_for_Flood_Prediction.pdf) is accepted for publication in the <i>Environmental Data Science</i> journal.
 
